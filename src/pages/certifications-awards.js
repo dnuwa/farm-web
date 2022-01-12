@@ -1,0 +1,2 @@
+import CertificationsAwords from 'containers/CertificationsAwords'
+export default CertificationsAwords;
